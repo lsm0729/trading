@@ -111,4 +111,5 @@ In practice, you’ll want to see how a company’s PE ratio compares to other s
 You’ll see PE ratios again in later lessons, so for now, just remember that it’s one of many ways to take a snapshot of a company’s financial health.
 
 
-
+# Exchange Trade Funds ETF(상장지수 펀드) 와 Index(지수) :
+ETF는 특정 지수의 성과를 추적하는 인덱스 펀드를 거래소에 상장시켜 주식처럼 거래할 수 있게 한 펀드
