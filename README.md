@@ -120,3 +120,9 @@ ETF는 특정 지수(KOSPI 류.. etc)의 성과를 추적하는 인덱스 펀드
 mean = u
 
 var = (std^2)/n
+
+
+# portfolio long short
+투자한 상풉이나 영역에 대한 정리
+
+long short : 오를것 같은 자산에 대한 buy, 내릴것 같은 자산에 대한 sell 전략
