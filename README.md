@@ -118,4 +118,5 @@ ETF는 특정 지수(KOSPI 류.. etc)의 성과를 추적하는 인덱스 펀드
 알수없는모집단에서 표본이 충분히 크다면 (n>infinite) 이 표본평균의 분포는 정규분포에 따름 (normal distribution)
 
 mean = u
-Var = (std^2)/n
+
+var = (std^2)/n
