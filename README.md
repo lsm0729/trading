@@ -37,5 +37,8 @@ A contract which gives the buyer the right, but not the obligation, to buy or se
 # Futures Contract: 
 A contract that obligates the buyer to buy or the seller to sell an asset at a predetermined price at a specified time in the future
 
+----
+
+
 
 
