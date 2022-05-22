@@ -112,4 +112,4 @@ You’ll see PE ratios again in later lessons, so for now, just remember that it
 
 
 # Exchange Trade Funds ETF(상장지수 펀드) 와 Index(지수) :
-ETF는 특정 지수의 성과를 추적하는 인덱스 펀드를 거래소에 상장시켜 주식처럼 거래할 수 있게 한 펀드
+ETF는 특정 지수(KOSPI 류.. etc)의 성과를 추적하는 인덱스 펀드를 거래소에 상장시켜 주식처럼 거래할 수 있게 한 펀드
