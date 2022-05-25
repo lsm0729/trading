@@ -168,3 +168,13 @@ long short : 오를것 같은 자산에 대한 buy, 내릴것 같은 자산에 �
 알파: excess return (시장의 수익률을 초과하는 수익률)
 
 
+
+
+# ELS Equity Linked Securities 주가연계증권
+
+
+# DLS Eerivatives Linked Securities 파생결합증권
+
+
+
+
