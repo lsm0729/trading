@@ -175,12 +175,51 @@ ex w=14
 
 RSI= 14일동안 상승폭합/(14일 상승폭합+14일 하락폭 합) -> 0<RSI<1
 
+# CAGR Compound Annual Growth Rate(연평균수익률)
+수익률 연단위 환산
+
+# Annual Return 누적수익률
+전체 투자기간동안 누적수익률
+
+# Average Returen 평균수익률
+트레이드 건별 수익률
+
+# Benchmark Return 벤치마크 수익률
+전략 이용하지 않고 주식을 보유만 하고있을떄 수익률 (이거보다 잘나와야지)
+
+# Sharp Ratio 샤프비율 샤프지수
+위험대비 수익률이 얼마인가
+
+=(수익률-무위험이자율)/std(수익률-무위험이자율)
+
+ex 은행이자만으로 10% 이익 주식으로 10% ?
+
+# MDD Maximum Draw Down 최대낙폭
+투자기간중 투자자가 입을 수 있는 최대 손실률
+
+# 벤치마크 MDD
+전략x시 최대손실
+
+전략MDD >= 벤치MDD : 방어안됨
+
+# MACD(MA Convergence Divergence) 이동평균 수렴 확산지수
+기간이 다른 이동평균선 사이관계에서 추세관계를 찾음
+
+ex: 기간 짧은 이동평균선이 긴 이동평균선 위에 있을시 상승추세
+
+# MACD signal, MACD osciliator : MACD 평균값
+
+# EMA : Exponential MA : 지수이동평균
+최근값 가중치
+
+
+# 단기투자 전략 모멘텀, 평균회귀
+모멘텀 : 상승세 주식 매수. 더오르길 기대
+평균회귀 : 하락한 종목을 사서 회복되길 기다림.
+
+
 
 # ELS Equity Linked Securities 주가연계증권
 
 
 # DLS Eerivatives Linked Securities 파생결합증권
-
-
-
-
